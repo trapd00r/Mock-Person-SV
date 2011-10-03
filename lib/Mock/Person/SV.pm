@@ -5,8 +5,7 @@ package Mock::Person::SV;
 
 =head1 NAME
 
-Mock::Person::SV - background module for L<Mock::Person> that generates Swedish
-names
+Mock::Person::SV - generate random sets of Swedish names
 
 =cut
 
@@ -34,7 +33,7 @@ L<babynames|http://www.babynames.org.uk/swedish-baby-names.htm>
 
 use strict;
 use utf8;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 my @first_male = my @middle_male = qw(
   Adam

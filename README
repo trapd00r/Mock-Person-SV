@@ -1,6 +1,5 @@
 NAME
-    Mock::Person::SV - background module for Mock::Person that generates
-    Swedish names
+    Mock::Person::SV - generate random sets of Swedish names
 
 DESCRIPTION
     Data for this module was found on these pages:
@@ -37,3 +36,4 @@ GENERAL FUNCTIONS
 
   last_female
     Returns random last name of female person.
+
