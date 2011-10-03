@@ -33,7 +33,7 @@ L<babynames|http://www.babynames.org.uk/swedish-baby-names.htm>
 
 use strict;
 use utf8;
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 my @first_male = my @middle_male = qw(
   Adam
